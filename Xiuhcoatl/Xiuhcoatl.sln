@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xiuhcoatl", "Xiuhcoatl.csproj", "{6E38482F-02A1-0187-52BB-88E492046C2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xiuhcoatl.Editor", "Xiuhcoatl.Editor.csproj", "{5B87B4FB-C725-24CE-A4B0-A63E1374975D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E38482F-02A1-0187-52BB-88E492046C2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E38482F-02A1-0187-52BB-88E492046C2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E38482F-02A1-0187-52BB-88E492046C2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E38482F-02A1-0187-52BB-88E492046C2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B87B4FB-C725-24CE-A4B0-A63E1374975D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B87B4FB-C725-24CE-A4B0-A63E1374975D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B87B4FB-C725-24CE-A4B0-A63E1374975D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B87B4FB-C725-24CE-A4B0-A63E1374975D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
